@@ -1,0 +1,26 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 12px;
+}
+
+h1,
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 200%;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 1.3em;
+  text-transform: lowercase;
+}
+
+.credits {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: capitalize;
+}
