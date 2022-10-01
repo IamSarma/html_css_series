@@ -3,3 +3,12 @@ body {
   letter-spacing: 0.15em;
   background-color: #efefef;
 }
+
+#page {
+  max-width: 950px;
+  min-width: 750px;
+  margin: auto;
+  padding: 20px;
+  border: 4px double #000;
+  background-color: #ffffff;
+}
