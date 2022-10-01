@@ -31,3 +31,9 @@ li {
   display: inline;
   margin: 0px 3px;
 }
+
+p {
+  text-align: center;
+  width: 600px;
+  margin: 20px auto;
+}
