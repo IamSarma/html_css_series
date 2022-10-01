@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  width: 300px;
+  border: 2px solid #0088dd;
+  padding: 10px;
+}
+
+p.example {
+  margin: 20px;
+}
