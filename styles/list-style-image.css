@@ -1,0 +1,12 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 125%;
+}
+
+ul {
+  list-style-image: url("../images/star.png");
+}
+
+li {
+  margin: 10px 0 0 0;
+}
