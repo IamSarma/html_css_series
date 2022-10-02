@@ -58,3 +58,11 @@ tr.head th:first-child {
 tr.head th:last-child {
   border-top-right-radius: 5px;
 }
+
+fieldset {
+  width: 310px;
+  margin-top: 20px;
+  border: 1px solid #d6d6d6;
+  backdrop-filter: #ffffff;
+  line-height: 1.6em;
+}
