@@ -4,7 +4,7 @@ body {
 }
 
 table {
-  width: 600px;
+  width: 700px;
 }
 
 th,
@@ -17,5 +17,9 @@ th {
   letter-spacing: 0.1em;
   border-bottom: 2px solid #111111;
   border-top: 1px solid #999;
-  text-align: left;
+  text-align: center;
+}
+
+tr.even {
+  background-color: #efefef;
 }
