@@ -66,3 +66,8 @@ fieldset {
   backdrop-filter: #ffffff;
   line-height: 1.6em;
 }
+
+legend {
+  font-style: italic;
+  color: #666666;
+}
