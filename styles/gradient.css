@@ -1,0 +1,5 @@
+#gradient {
+  height: 300px;
+  width: 600px;
+  background-image: -webkit-linear-gradient(#336666, #66cccc);
+}
