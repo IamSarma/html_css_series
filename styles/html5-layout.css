@@ -106,3 +106,8 @@ aside section a {
   padding: 10px;
   border-bottom: 1px solid #eeeeee;
 }
+
+aside section a:hover {
+  color: #985d6a;
+  background-color: #efefef;
+}
