@@ -111,3 +111,8 @@ aside section a:hover {
   color: #985d6a;
   background-color: #efefef;
 }
+
+a {
+  color: #de6581;
+  text-decoration: none;
+}
