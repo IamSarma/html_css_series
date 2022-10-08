@@ -40,3 +40,8 @@ figure img {
   height: 150px;
   border: 1px solid #d6d6d6;
 }
+
+figcaption {
+  background: url(../images/icon.png) no-repeat;
+  padding-left: 20px;
+}
