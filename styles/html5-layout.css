@@ -81,6 +81,12 @@ hgroup {
   margin-top: 40px;
 }
 
+hgroup h2,
+p,
+figcaption {
+  color: black;
+}
+
 figure {
   float: left;
   width: 290px;
