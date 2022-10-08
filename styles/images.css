@@ -14,3 +14,13 @@ body {
 .header {
   margin: 40px 0 20px 0;
 }
+
+.entry {
+  width: 220px;
+  height: 198px;
+  float: left;
+  margin: 10px;
+  background-image: url(../images/shadow.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
