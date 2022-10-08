@@ -30,3 +30,10 @@ header {
   height: 160px;
   background-image: url(../images/header.jpg);
 }
+
+h1 {
+  text-indent: -9999px;
+  width: 940px;
+  height: 130px;
+  margin: 0px;
+}
