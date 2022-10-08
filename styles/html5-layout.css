@@ -55,3 +55,7 @@ nav li {
   display: inline;
   margin-right: 40px;
 }
+
+nav li a {
+  color: #ffffff;
+}
