@@ -76,3 +76,7 @@ article {
   overflow: auto;
   width: 100%;
 }
+
+hgroup {
+  margin-top: 40px;
+}
