@@ -50,3 +50,8 @@ nav ul {
   margin: 0px;
   padding: 5px 0px 5px 30px;
 }
+
+nav li {
+  display: inline;
+  margin-right: 40px;
+}
