@@ -89,3 +89,8 @@ figure {
   margin: 20px;
   border: 1px solid #eeeeee;
 }
+
+figcaption {
+  font-size: 90%;
+  text-align: left;
+}
