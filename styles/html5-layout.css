@@ -100,3 +100,9 @@ aside {
   float: left;
   padding: 0px 0px 0px 20px;
 }
+
+aside section a {
+  display: block;
+  padding: 10px;
+  border-bottom: 1px solid #eeeeee;
+}
